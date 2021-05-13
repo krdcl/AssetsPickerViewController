@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FFFA8510264D583900E18793 /* .gitkeep in Resources */ = {isa = PBXBuildFile; fileRef = FFFA84C0264D583900E18793 /* .gitkeep */; };
 		FFFA8511264D583900E18793 /* AssetsAlbumViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFA84C3264D583900E18793 /* AssetsAlbumViewController.swift */; };
 		FFFA8512264D583900E18793 /* AssetsAlbumCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFA84C5264D583900E18793 /* AssetsAlbumCell.swift */; };
 		FFFA8513264D583900E18793 /* AssetsAlbumHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFFA84C6264D583900E18793 /* AssetsAlbumHeaderView.swift */; };
@@ -61,7 +60,6 @@
 		FFFA84B1264D57AC00E18793 /* AssetsPickerViewController.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = AssetsPickerViewController.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFFA84B4264D57AC00E18793 /* AssetsPickerViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AssetsPickerViewController.h; sourceTree = "<group>"; };
 		FFFA84B5264D57AC00E18793 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FFFA84C0264D583900E18793 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		FFFA84C3264D583900E18793 /* AssetsAlbumViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsAlbumViewController.swift; sourceTree = "<group>"; };
 		FFFA84C5264D583900E18793 /* AssetsAlbumCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsAlbumCell.swift; sourceTree = "<group>"; };
 		FFFA84C6264D583900E18793 /* AssetsAlbumHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssetsAlbumHeaderView.swift; sourceTree = "<group>"; };
@@ -107,7 +105,6 @@
 		FFFA84FC264D583900E18793 /* UIColor+AssetsPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
 		FFFA84FD264D583900E18793 /* UIFont+AssetsPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIFont+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
 		FFFA84FE264D583900E18793 /* UIScreen+AssetsPickerViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIScreen+AssetsPickerViewController.swift"; sourceTree = "<group>"; };
-		FFFA8500264D583900E18793 /* .gitkeep */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitkeep; sourceTree = "<group>"; };
 		FFFA8502264D583900E18793 /* ar */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ar; path = ar.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 		FFFA8503264D583900E18793 /* de */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = de; path = de.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
 		FFFA8504264D583900E18793 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/AssetsPickerViewController.strings; sourceTree = "<group>"; };
@@ -166,7 +163,6 @@
 		FFFA84BF264D583900E18793 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				FFFA84C0264D583900E18793 /* .gitkeep */,
 				FFFA84C1264D583900E18793 /* Album */,
 				FFFA84C9264D583900E18793 /* Assets */,
 				FFFA84CD264D583900E18793 /* Common */,
@@ -355,7 +351,6 @@
 		FFFA84FF264D583900E18793 /* Assets */ = {
 			isa = PBXGroup;
 			children = (
-				FFFA8500264D583900E18793 /* .gitkeep */,
 				FFFA8501264D583900E18793 /* AssetsPickerViewController.strings */,
 			);
 			path = Assets;
@@ -447,7 +442,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFFA8510264D583900E18793 /* .gitkeep in Resources */,
 				FFFA853F264D583900E18793 /* AssetsPickerViewController.strings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
